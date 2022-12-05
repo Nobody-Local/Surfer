@@ -1,0 +1,10 @@
+{
+	"manifest": {
+		"name": "Surfer",
+		"author": "半透明のLocaler#5455",
+		"script": {
+			"src": "https://raw.githubusercontent.com/Nobody-Local/Surfer/main/program.js",
+			"module": "false"
+		}
+	}
+}
